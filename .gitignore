@@ -1,0 +1,16 @@
+snapshotVue/.DS_Store
+snapshotVue/node_modules/
+/dist/
+snapshotVue/npm-debug.log*
+snapshotVue/yarn-debug.log*
+snapshotVue/yarn-error.log*
+/test/e2e/reports/
+snapshotVue/selenium-debug.log
+
+# Editor directories and files
+snapshotVue/.idea
+snapshotVue/.vscode
+snapshotVue/*.suo
+snapshotVue/*.ntvs*
+snapshotVue/*.njsproj
+snapshotVue/*.sln
